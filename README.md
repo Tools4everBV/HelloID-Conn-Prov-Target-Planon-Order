@@ -40,7 +40,7 @@
 
 ## Introduction
 
-_HelloID-Conn-Prov-Target-Planon_ is a _target_ connector. Planon offers web services APIs that allow developers to access and integrate the functionality of with other applications and systems.
+_HelloID-Conn-Prov-Target-Planon_ is a _target_ connector. Planon offers web services APIs that allow developers to access and integrate the functionality with other applications and systems.
 
 The Planon API uses a WSDL / SOAP architecture. A WSDL (Web Services Description Language) is an XML-based language that is used for describing the functionality of a web service. A WSDL file defines the methods that are exposed by the web service, along with the data types that are used by those methods and the messages that are exchanged between the web service and its clients.
 
