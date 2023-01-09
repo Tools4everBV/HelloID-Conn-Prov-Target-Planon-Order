@@ -7,7 +7,7 @@
 
 | :warning: Warning |
 |:---------------------------|
-| This connector has not been tested on a Planon enviroment. Therefore, changes might have to be made according to your environment. |
+| This connector has not been tested on a Planon environment. Therefore, changes might have to be made according to your environment. |
 
 | :warning: Warning |
 |:---------------------------|
