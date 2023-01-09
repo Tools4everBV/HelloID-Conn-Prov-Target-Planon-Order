@@ -1,0 +1,54 @@
+[
+    {
+        "key": "UserName",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "label": "UserName",
+            "description": "The userName to connect to the Planon webservice",
+            "required": true
+        }
+    },
+    {
+        "key": "Password",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "type": "password",
+            "label": "Password",
+            "description": "The password to connect to the Planon webservice",
+            "required": true
+        }
+    },
+    {
+        "key": "BaseUrl",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "label": "BaseUrl",
+            "description": "The URL to the Planon webservice",
+            "placeholder": "https://{environment}/nyx/services",
+            "required": true
+        }
+    },
+    {
+        "key": "OrderCodesJSONFile",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "label": "OrderCodesJSONFile",
+            "description": "The JSON file containing the standard order codes required for the entitlements.",
+            "required": true
+        }
+    },
+    {
+        "key": "IsDebug",
+        "type": "checkbox",
+        "defaultValue": true,
+        "templateOptions": {
+            "label": "Toggle debug logging",
+            "description": "When toggled, debug logging will be displayed",
+            "required": false
+        }
+    }
+]
